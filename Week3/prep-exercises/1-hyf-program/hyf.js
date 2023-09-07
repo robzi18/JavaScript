@@ -63,6 +63,7 @@ export const mentors = [
   {
     name: "Andrej",
     canTeach: ["using-apis", "node"],
+    nowTeaching: "using-apis",
   },
   {
     name: "Shriyans",
